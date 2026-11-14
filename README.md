@@ -59,3 +59,7 @@ It opens http://127.0.0.1:8765 in the browser. On a Mac you can also double-clic
 Type loosely ("did team 3012 keep the speech thing?"): code tidies the team id, follow-up questions
 stay on the same team, and each answer shows its quotes, the speaker, the time and the steps the
 agent took. Standard library only, bound to this computer, no login. Files: `app.py`, `ui/`.
+
+## Walkthrough
+
+`walkthrough.mp4` is a 4 minute recorded walkthrough of the agent in the chat window.
