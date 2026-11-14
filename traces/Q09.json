@@ -1,0 +1,43 @@
+{
+ "question": "What selling price was Team IS1002 working with at first, what price range did they settle on later, and which speaker pushed hardest for a higher, more exclusive price?",
+ "team": "IS1002",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "Team IS1002 initially set a wholesale selling price of 25 Euros (IS1002b), then shifted upward, settling on a 35\u201350 Euro range in IS1002c once they committed to higher-end features (scroll wheel, cradle, locator). Speaker D (marketing) pushed hardest for an even higher, exclusive price, at one point proposing 89 Euros and later 50\u201360 Euros, calling it 'the Rolls Royce of remote controls.'",
+   "citations": [
+    {
+     "meeting_id": "IS1002b",
+     "quote": "the twenty-five Euros that we've identified as the sale price is a wholesale price rather than a retail price"
+    },
+    {
+     "meeting_id": "IS1002b",
+     "quote": "let's let's sell this wholesale for for fifty Euros, sixty Euros. Let's make this thing really exclusive"
+    },
+    {
+     "meeting_id": "IS1002c",
+     "quote": "we'll come up with something between thirty five and fifty that is rug rubber, robust, with scroll wheel"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Team IS1002 initially set a wholesale selling price of 25 Euros, but later settled on a 35\u201350 Euro range as they shifted to a higher-end, design-driven brand positioning. Speaker D (marketing) pushed hardest for an exclusive, higher price, even proposing wholesale prices of 50\u201360 Euros.",
+   "citations": [
+    {
+     "meeting_id": "IS1002b",
+     "quote": "the twenty-five Euros that we've identified as the sale price is a wholesale price rather than a retail price."
+    },
+    {
+     "meeting_id": "IS1002b",
+     "quote": "I I see I I'm an advocate to make this an exclusive product. You know, let's let's sell this wholesale for for fifty Euros, sixty Euros."
+    },
+    {
+     "meeting_id": "IS1002c",
+     "quote": "we'll come up with something between thirty five and fifty that is rug rubber, robust, with scroll wheel"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

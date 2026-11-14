@@ -1,0 +1,44 @@
+{
+ "question": "Team TS3011 chose a combined energy source for their remote. What was the combination, and what happened to it when the costs were added up?",
+ "team": "TS3011",
+ "steps": [
+  {
+   "action": "search",
+   "query": "solar cell cost drop production costs",
+   "meeting_id": "TS3011d"
+  },
+  {
+   "action": "answer",
+   "answer": "The team combined traditional batteries with a solar cell/panel as complementary energy sources. In the final meeting, when production costs were tallied the design came to about 22 Euro (vs. a 12.50 budget), and the solar cell was identified as a major cost driver, so it was dropped to bring costs down to about 12.40.",
+   "citations": [
+    {
+     "meeting_id": "TS3011c",
+     "quote": "So uh uh just uh the energy source is um the batteries and the solar."
+    },
+    {
+     "meeting_id": "TS3011d",
+     "quote": "it's it's w way above um uh above the the the twelve Euro fifty. And what makes it very expensive is uh for example the solar cell. So I guess we should skip that"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "The team chose batteries combined with solar cells (complementary, not either/or) as the remote's energy source in meeting 3. But in meeting 4, when costs were tallied the design came to about 22 Euro versus the 12.50 budget, and the solar cell was identified as a major cost driver, so it was dropped to bring the price down to about 12.40.",
+   "citations": [
+    {
+     "meeting_id": "TS3011c",
+     "quote": "So uh uh just uh the energy source is um the batteries and the solar."
+    },
+    {
+     "meeting_id": "TS3011d",
+     "quote": "what makes it very expensive is uh for example the solar cell. So I guess we should skip that, because it's not that important."
+    },
+    {
+     "meeting_id": "TS3011d",
+     "quote": "Twelve Euro forty cents I came up with by leaving out the solar cells"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

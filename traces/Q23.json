@@ -1,0 +1,69 @@
+{
+ "question": "Team ES2006's final design had to fit the budget. Which of their headline technical features did they keep, and what did they swap out or simplify to get under budget?",
+ "team": "ES2006",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "They kept LCD display, voice recognition, and advanced integrated circuits as headline features, but to fit the 12.5 budget they dropped the sample speaker/sensor (most expensive part) and replaced the scroll wheel with simple pushbuttons for volume; they also switched the body from fancy vegetable colours to a basic colour to cut cost.",
+   "citations": [
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Yeah, the sample sensor will have to go, 'cause that's the most expensive thing on there."
+    },
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Unless we just take off the scroll wheel altogether and just have pushbuttons for the volume."
+    },
+    {
+     "meeting_id": "ES2006c",
+     "quote": "we're definitely going in for voice recognition as well as L_C_D_s, mm."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Team ES2006 kept LCD display with voice recognition as headline features, but to get under the 12.5 budget they dropped the sample speaker/sensor (most expensive part) and replaced the scroll wheel with simple pushbuttons for volume; they also simplified the body color from multiple 'vegetable colors' to one basic color.",
+   "citations": [
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Yeah, the sample sensor will have to go, 'cause that's the most expensive thing on there."
+    },
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Unless we just take off the scroll wheel altogether and just have pushbuttons for the volume."
+    },
+    {
+     "meeting_id": "ES2006a",
+     "quote": "Our budget's twelve point five."
+    }
+   ]
+  },
+  {
+   "action": "read",
+   "meeting_id": "ES2006d",
+   "from": "00:20:30",
+   "to": "00:21:40"
+  },
+  {
+   "action": "answer",
+   "answer": "Team ES2006 kept LCD display, voice recognition, and advanced integrated circuits, but to fit the 12.5 budget they dropped the scroll wheel in favor of simple pushbuttons, cut the sample sensor/speaker feedback feature, and removed the locator function.",
+   "citations": [
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Unless we just take off the scroll wheel altogether and just have pushbuttons for the volume."
+    },
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Yeah, the sample sensor will have to go, 'cause that's the most expensive thing on there."
+    },
+    {
+     "meeting_id": "ES2006d",
+     "quote": "Mm and the locator also goes away."
+    }
+   ]
+  }
+ ],
+ "quote_errors": [
+  "ES2006a: \"Our budget's twelve point five.\" -> not found word for word inside a single turn"
+ ]
+}

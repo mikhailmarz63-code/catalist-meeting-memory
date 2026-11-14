@@ -1,0 +1,43 @@
+{
+ "question": "Team TS3006 planned both an LCD screen and speech recognition. When the costs forced a cut, which of the two did they drop, which did they keep, and what reason was given for keeping it?",
+ "team": "TS3006",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "In TS3006d, facing a budget cut, the team dropped speech recognition (saving 4 Euros) and kept the LCD screen. They kept the LCD because dropping it would require many extra buttons and lose their whole concept, and they had already designed the chip and components around it.",
+   "citations": [
+    {
+     "meeting_id": "TS3006d",
+     "quote": "We lose our whole concept. Uh so No we just We keep the L_C_D_."
+    },
+    {
+     "meeting_id": "TS3006d",
+     "quote": "we we haven't really integrated this the speech into the system, so we can might as well s drop that."
+    },
+    {
+     "meeting_id": "TS3006d",
+     "quote": "No, I keep the re Yeah. Yeah. Because we already designed for it. So"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Facing budget cuts in meeting 4, the team dropped speech recognition (saving 4 Euros) and kept the LCD screen. They kept the LCD because it was core to their concept and they had already designed around it, even needing an advanced chip and hand dynamo to support it.",
+   "citations": [
+    {
+     "meeting_id": "TS3006d",
+     "quote": "We lose our whole concept. Uh so No we just We keep the L_C_D_."
+    },
+    {
+     "meeting_id": "TS3006d",
+     "quote": "we we haven't really integrated this the speech into the system, so we can might as well s drop that."
+    },
+    {
+     "meeting_id": "TS3006d",
+     "quote": "No, I keep the re Yeah. Yeah. Because we already designed for it."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

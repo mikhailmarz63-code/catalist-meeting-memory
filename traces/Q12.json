@@ -1,0 +1,49 @@
+{
+ "question": "Team ES2004 considered voice recognition as a way to find the remote when it is lost. What happened to it in the final design, why, and what did they say would still make the remote easy to find?",
+ "team": "ES2004",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "Voice recognition was explored (an 'I'm here' response feature) but was dropped from the final design in ES2004d because it pushed cost above budget; C noted it might have survived if marketing input came earlier. Instead, the team relied on the remote's distinctive, non-standard shape/design itself making it easy to spot, with voice recognition left as a possible paid upgrade for 'business class' customers.",
+   "citations": [
+    {
+     "meeting_id": "ES2004d",
+     "quote": "although we didn't quite make the voice recognition in there, but that's that's good"
+    },
+    {
+     "meeting_id": "ES2004d",
+     "quote": "our object is so distinctive that that in itself is gonna make it easier to locate"
+    },
+    {
+     "meeting_id": "ES2004d",
+     "quote": "We could do the voice recognition for, you know, business class or something, you know, like an upgraded version"
+    }
+   ]
+  },
+  {
+   "action": "read",
+   "meeting_id": "ES2004d",
+   "from": "00:28:30",
+   "to": "00:30:30"
+  },
+  {
+   "action": "answer",
+   "answer": "Voice recognition was dropped from the final design in ES2004d because it pushed the prototype cost over budget (B's finance tool showed it raised the cost beyond target), though it was the team's early favorite and rated 1/7 for ease of locating. D suggested it could later be offered as a paid upgrade for 'business class' customers, and in place of it the team relied on the remote's distinctive shell-like shape/colour itself making it easy to spot, rather than a beep or voice feature.",
+   "citations": [
+    {
+     "meeting_id": "ES2004d",
+     "quote": "I think the voice recognition sounds wonderful, but our object is so distinctive that that in itself is gonna make it easier to locate"
+    },
+    {
+     "meeting_id": "ES2004d",
+     "quote": "although we didn't quite make the voice recognition in there, but that's that's good"
+    },
+    {
+     "meeting_id": "ES2004d",
+     "quote": "We could do the voice recognition for, you know, business class or something, you know, like an upgraded version"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

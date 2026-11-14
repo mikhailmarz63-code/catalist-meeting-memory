@@ -1,0 +1,41 @@
+{
+ "question": "Team ES2008 wanted a feature to stop the remote getting lost. What happened to that feature, who raised the main objection to it, and what was the objection?",
+ "team": "ES2008",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "The anti-loss/remote-finder feature (proposed by A in meeting 2, since 50% of users cited losing remotes as their top frustration) was ultimately dropped in the final meeting (ES2008d). The main objection came from C (UI designer), who argued it was technologically impractical since a lost remote under furniture couldn't receive an infrared signal to trigger a beep.",
+   "citations": [
+    {
+     "meeting_id": "ES2008b",
+     "quote": "Like a button on a T_V_ you can press and it'll ring or something, I don't know like or beep?"
+    },
+    {
+     "meeting_id": "ES2008d",
+     "quote": "I think it would be difficult technologically, because if your if your remote's lost it's probably under the settee and in that case you can't you can't send an infrared sing signal to it"
+    }
+   ]
+  },
+  {
+   "action": "read",
+   "meeting_id": "ES2008d",
+   "from": "00:06:30",
+   "to": "00:08:00"
+  },
+  {
+   "action": "answer",
+   "answer": "The anti-loss/finder feature was proposed in meeting 2 (ES2008b) but ultimately dropped in the final meeting (ES2008d). Speaker C (UI designer) raised the main objection: it's technologically impractical since a lost remote is likely under a couch cushion, so no infrared signal could reach it, calling it possibly just a gimmick.",
+   "citations": [
+    {
+     "meeting_id": "ES2008b",
+     "quote": "Like a button on a T_V_ you can press and it'll ring or something, I don't know like or beep?"
+    },
+    {
+     "meeting_id": "ES2008d",
+     "quote": "I think it would be difficult technologically, because if your if your remote's lost it's probably under the settee and in that case you can't you can't send an infrared sing signal to it to find it"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

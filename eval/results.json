@@ -1,0 +1,270 @@
+[
+  {
+    "id": "E01",
+    "question": "Team TS3008 planned a rechargeable remote with a docking station. What happened to the docking station in the final meeting, what did Speaker A push for instead as a special feature, and was that adopted?",
+    "reference": "The docking station was dropped at the costing stage in TS3008d because the budget left no room for it. Speaker A (who presented the cost sheet) pushed for a kinetic energy source as the special feature; C and D objected that a remote is not moved enough, and it was not adopted: the design was left as it was.",
+    "answer": "In the final meeting (TS3008d), the docking station was dropped to meet the €12.50 cost target. Speaker A then pushed for a kinetic power source (hand dynamo, no batteries) as the special feature, but it was not adopted—D objected it was impractical, leaving the design without a clear special feature.",
+    "citations": [
+      {
+        "meeting_id": "TS3008d",
+        "quote": "we're not gonna make the docking station, then we still yeah, we need something else maybe to make it kind of special, because that was our our special feature"
+      },
+      {
+        "meeting_id": "TS3008d",
+        "quote": "I would have liked a kinetic part as well, to give it some just to give it some extra special feature"
+      },
+      {
+        "meeting_id": "TS3008d",
+        "quote": "You you gotta throw uh throw it through the room like twenty times an hour, really."
+      }
+    ],
+    "quote_errors": [],
+    "steps": 2,
+    "grade": "partial",
+    "why": "Docking station drop and kinetic feature rejection are correct, but the answer attributes objection only to D (and as 'impractical') instead of both C and D objecting that the remote isn't moved enough."
+  },
+  {
+    "id": "E02",
+    "question": "Team ES2013 leaned towards one energy source on a condition. What was the energy source and the condition, and what did the final costing show?",
+    "reference": "Kinetic energy, to be used 'if it's at all possible' because they had no cost figures yet (ES2013c). In ES2013d the costing was filled in with kinetic and the total came to 9.20 against the 12.50 allowed, so kinetic stayed and they were within budget.",
+    "answer": "The team leaned toward kinetic energy, conditional on it being feasible and affordable ('use the kinetic if it's at all possible'), since it avoids battery replacement/recharging and solar's dark-day problem. By the final meeting, costing confirmed it kept them within budget, using the cheapest simple chip-on-print electronics with push buttons.",
+    "citations": [
+      {
+        "meeting_id": "ES2013c",
+        "quote": "So the consensus seems to be use the kinetic if it's at all possible."
+      },
+      {
+        "meeting_id": "ES2013d",
+        "quote": "Absolutely, and it's kept us within budget."
+      },
+      {
+        "meeting_id": "ES2013d",
+        "quote": "I think we can do it all with simple Just checking that. Yeah, simple, 'cause we've just got push buttons, so we can do it all with simple which is the ch should be the cheapest."
+      }
+    ],
+    "quote_errors": [],
+    "steps": 4,
+    "grade": "partial",
+    "why": "Correctly identifies kinetic energy and the feasibility condition but omits the specific cost figures (9.20 vs 12.50) from the final costing."
+  },
+  {
+    "id": "E03",
+    "question": "What energy source did Team ES2015 decide on, what backup power idea was floated in the same meeting, and did that backup make it into the final design?",
+    "reference": "They decided on kinetic energy (ES2015c). A solar power backup was floated (C raised solar as on calculators, B called it a solar backup). It did not make the final design: in ES2015d B says they could not have afforded things like the LCD screen and solar power backup.",
+    "answer": "Team ES2015 chose kinetic energy (shake-powered) as the sole energy source, at 3 Euros cost. In the same meeting (ES2015c) solar power was floated as a backup, but it was ultimately dropped in the final design (ES2015d) due to budget constraints, with no backup power included.",
+    "citations": [
+      {
+        "meeting_id": "ES2015c",
+        "quote": "May maybe that could be the backup. Instead of a battery. Like solar backup."
+      },
+      {
+        "meeting_id": "ES2015c",
+        "quote": "I think we should just like take uh advantage of like using this to its full potential. Go for it."
+      },
+      {
+        "meeting_id": "ES2015d",
+        "quote": "if we had decided to use the L_C_D_ screen, and like solar power backup and everything, then we wouldn't have been able to afford that."
+      }
+    ],
+    "quote_errors": [],
+    "steps": 2,
+    "grade": "correct",
+    "why": "Answer correctly states kinetic energy chosen, solar backup floated, and dropped from final design due to budget, matching the reference."
+  },
+  {
+    "id": "E04",
+    "question": "In Team IS1006, who first suggested titanium for the case and for what reason, and what material did the designers say they would stick to in the final meeting?",
+    "reference": "Speaker B first suggested titanium in IS1006b, to make the remote baby-proof. In IS1006d Speaker C said they wanted to stick to titanium.",
+    "answer": "Speaker B (industrial designer in IS1006b) first proposed titanium for the case, arguing it would be unbreakable and baby-proof. In the final meeting (IS1006d), the designers confirmed they would stick with titanium as the case material.",
+    "citations": [
+      {
+        "meeting_id": "IS1006b",
+        "quote": "to make a baby-proof remote control it got to be a titanium. It's a really good style, it going to be look like like this. It is unbreakable"
+      },
+      {
+        "meeting_id": "IS1006d",
+        "quote": "Material, we want to stick to titanium. We will send, we want to"
+      }
+    ],
+    "quote_errors": [],
+    "steps": 3,
+    "grade": "correct",
+    "why": "Answer correctly identifies Speaker B's baby-proof reasoning in IS1006b and confirms titanium as the final material in IS1006d."
+  },
+  {
+    "id": "E05",
+    "question": "In Team IS1000's final meeting, what production cost was reported for the prototype, how much of that was the speech recognition, and what did Speaker A suggest to get down to the budget?",
+    "reference": "Speaker C reported 16 Euros (first misspoken as Francs), of which speech recognition was about 3 Euros, so 13 Euros without it. Speaker A suggested taking the speech recognition out to get down to the budget.",
+    "answer": "In IS1000d, the state-of-the-art prototype was costed at 16 Euros, of which the speech recognition (ASR) system accounted for about 3 Euros. Speaker A suggested cutting the speech recognition to reach the budget, which brought the design down to roughly 13 Euros and ultimately led the team to drop it entirely and revert to the 12-Euro basic design.",
+    "citations": [
+      {
+        "meeting_id": "IS1000d",
+        "quote": "they say basically that the S_R_ system would be uh something like three Francs per item so three Euros sorry"
+      },
+      {
+        "meeting_id": "IS1000d",
+        "quote": "they told me this could be possible for sixteen Fr Euros"
+      },
+      {
+        "meeting_id": "IS1000d",
+        "quote": "Well it's easier to just make that one cheaper by just taking the speech recognition out. That'll basically take us down to the budget."
+      }
+    ],
+    "quote_errors": [],
+    "steps": 4,
+    "grade": "correct",
+    "why": "All key facts match: 16 Euros total, ~3 Euros for speech recognition, and Speaker A's suggestion to cut speech recognition to reach budget."
+  },
+  {
+    "id": "E06",
+    "question": "Team ES2005's design came out over budget in the final meeting. What did it cost, and what change was proposed to save the money?",
+    "reference": "It cost 14.6 Euros (without the extra scroll buttons). To save about two Euros, Speaker C proposed keeping essentially the same shape but flattened, which brought them under 12.50.",
+    "answer": "In the final meeting (ES2005d), the design initially cost 14.60 Euros, over the 12.50 budget. C proposed flattening the curved shape into a traditional remote shape, removing a double-curve panel, which brought the cost down to 11.60 Euros.",
+    "citations": [
+      {
+        "meeting_id": "ES2005d",
+        "quote": "the unit we are currently going to produce minus the extra scroll buttons, uh it's gonna cost us fourteen point six Euros"
+      },
+      {
+        "meeting_id": "ES2005d",
+        "quote": "I was thinking that we could have essentially the same shape, but just have it flattened"
+      },
+      {
+        "meeting_id": "ES2005d",
+        "quote": "Eleven uh eleven Euros sixty"
+      }
+    ],
+    "quote_errors": [],
+    "steps": 2,
+    "grade": "partial",
+    "why": "Correctly identifies 14.60 cost and flattening proposal but gives wrong resulting cost (11.60 instead of under 12.50, roughly 12.60)."
+  },
+  {
+    "id": "E07",
+    "question": "When Team IS1004 added up their costs they were over budget. What single change brought them back, and who proposed it?",
+    "reference": "Making the case plastic instead of rubber. Speaker B proposed it (Speaker C said the same at the same moment), which left them on budget apart from about ten cents, and Speaker A then confirmed they were under the cost.",
+    "answer": "In meeting 4, after finding they were over budget, Speaker C (industrial designer) proposed making the casing plastic instead of rubber, which brought them back on budget (within about ten cents).",
+    "citations": [
+      {
+        "meeting_id": "IS1004d",
+        "quote": "instead of rubber, let it be plastic"
+      },
+      {
+        "meeting_id": "IS1004d",
+        "quote": "Make it plastic instead of rubber. And then we're basically o on budget except for you know ten cents."
+      }
+    ],
+    "quote_errors": [],
+    "steps": 3,
+    "grade": "partial",
+    "why": "The change and outcome match, but the answer attributes the proposal to Speaker C instead of Speaker B as in the reference."
+  },
+  {
+    "id": "E08",
+    "question": "What production cost did Team IS1001 end up with, and how did it compare with their limit?",
+    "reference": "10.7 Euros, under the limit of 12.5 Euros.",
+    "answer": "The final production cost came to 10.7 Euros per unit, under their 12.5 Euro limit (set at kickoff, briefly noted as 12 Euros in meeting 3 before 12.5 was reconfirmed as the threshold), with a planned selling price of 25 Euros.",
+    "citations": [
+      {
+        "meeting_id": "IS1001d",
+        "quote": "And the cost ended to be ten point seven Euros. So which is uh good, because we had a price gap of twelve point five Euros."
+      },
+      {
+        "meeting_id": "IS1001d",
+        "quote": "we could sell at twenty five Euros and make i make profit"
+      }
+    ],
+    "quote_errors": [],
+    "steps": 2,
+    "grade": "correct",
+    "why": "Matches the 10.7 Euro cost under the 12.5 Euro limit, with extra correct details added."
+  },
+  {
+    "id": "E09",
+    "question": "Team TS3012 changed its mind about speech recognition more than once. What was the position in each meeting where it was decided, and why was it finally cut while the LCD stayed?",
+    "reference": "TS3012b: dropped (not mature, not yet). TS3012c: back in (young people want it and the component is small). TS3012d: scrapped at costing because the total was 17 Euros against 12.50; the LCD stayed because about 90 percent of people favoured an LCD against about 60 percent for speech recognition, and speech added no function a normal remote lacks.",
+    "answer": "Speech recognition was dropped in meeting 2 (A: too hard across multiple countries, needs too much memory), reinstated in meeting 3 after B found a small compliant component and D's research showed 60-70% demand, then finally cut in meeting 4 due to cost: the team lacked budget/resources to implement it, and A judged the LCD (which could show menus and navigation) was worth more than speech recognition for the price point.",
+    "citations": [
+      {
+        "meeting_id": "TS3012b",
+        "quote": "Speech recognition, I think it's very hard, because we're selling across multiple countries."
+      },
+      {
+        "meeting_id": "TS3012c",
+        "quote": "If it's small, if it's fits, if if people like it, why not?"
+      },
+      {
+        "meeting_id": "TS3012d",
+        "quote": "it's it's influenced by the fact that we didn't have enough resources to implement speech recognition"
+      }
+    ],
+    "quote_errors": [],
+    "steps": 3,
+    "grade": "partial",
+    "why": "Meeting sequence (drop-then-reinstate-then-cut) matches, but the stated reasons for each decision differ from the reference's specifics (e.g., drop reason, reinstatement rationale, and especially the cost comparison 17 vs 12.50 Euros and 90% vs 60% survey preference explaining why LCD stayed)."
+  },
+  {
+    "id": "E10",
+    "question": "Team ES2015 chose solar cells as their main energy source. Who proposed it and when was it confirmed?",
+    "reference": "The premise is wrong. ES2015 chose kinetic energy as the main source; solar was only floated as a possible backup and was not in the final design. A good answer corrects the premise.",
+    "answer": "The team never made solar the main energy source; kinetic energy was chosen as the sole power source (proposed by Speaker B in meeting 3). Speaker C suggested solar only as a backup in meeting 3, which A called impractical, and that solar-backup idea was finally dropped in meeting 4 due to budget constraints.",
+    "citations": [
+      {
+        "meeting_id": "ES2015c",
+        "quote": "I think we could go for the kinetic energy source. I don't, I think that's quite um an advanced kind of technology."
+      },
+      {
+        "meeting_id": "ES2015c",
+        "quote": "Maybe we could you were saying about um solar power ma maybe not working indoors, but a lot of calculators, yeah, have solar power. So maybe that could be incorporated as"
+      },
+      {
+        "meeting_id": "ES2015d",
+        "quote": "if we had decided to use the L_C_D_ screen, and like solar power backup and everything, then we wouldn't have been able to afford that."
+      }
+    ],
+    "quote_errors": [],
+    "steps": 2,
+    "grade": "correct",
+    "why": "The answer correctly rejects the false premise, identifies kinetic energy as the actual main source, and accurately describes solar as a dropped backup idea, matching the reference."
+  },
+  {
+    "id": "E11",
+    "question": "In Team IS1005, someone doubted that a sun-powered part would work for people watching television indoors. Who raised the doubt, and who had suggested the idea?",
+    "reference": "Speaker D raised the doubt ('where is the sun if someone's watching TV inside?') in IS1005c. Speaker B had suggested batteries plus an additional solar cell.",
+    "answer": "In IS1005c, Speaker B (industrial designer) proposed using solar cells (alongside batteries) to power the speech recognition and LCD features; Speaker D (marketing) then doubted this, asking where the sun would be if someone is watching TV indoors.",
+    "citations": [
+      {
+        "meeting_id": "IS1005c",
+        "quote": "which I found the best is to use the solar cells which can which can uh supply everything"
+      },
+      {
+        "meeting_id": "IS1005c",
+        "quote": "So if we use s solar cells, um where is the sun if someone's watching T_V_ inside?"
+      }
+    ],
+    "quote_errors": [],
+    "steps": 3,
+    "grade": "correct",
+    "why": "Answer correctly identifies Speaker D as doubter and Speaker B as idea proposer, matching the reference."
+  },
+  {
+    "id": "E12",
+    "question": "One team's final costing was stated as nine pounds twenty against the twelve and a half they were allowed. Which team was it, and which energy source was in that costing?",
+    "reference": "Team ES2013 (meeting ES2013d). The costing used kinetic energy.",
+    "answer": "ES2013d's final costing was nine pounds twenty against the twelve and a half allowed, using kinetic energy as the power source.",
+    "citations": [
+      {
+        "meeting_id": "ES2013d",
+        "quote": "the total cost has been calculated as nine Pounds twenty out of the twelve and a half we were allowed"
+      },
+      {
+        "meeting_id": "ES2013d",
+        "quote": "we would use plastic with a rubber casing, I think was the consensus, powered by kinetic energy"
+      }
+    ],
+    "quote_errors": [],
+    "steps": 3,
+    "grade": "correct",
+    "why": "Matches reference: team ES2013d with kinetic energy costing."
+  }
+]

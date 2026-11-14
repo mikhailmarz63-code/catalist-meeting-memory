@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.log
+memory.db-wal
+memory.db-shm
+graphify-out/
+logs/

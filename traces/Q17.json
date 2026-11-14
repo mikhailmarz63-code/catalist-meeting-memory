@@ -1,0 +1,43 @@
+{
+ "question": "Team ES2009 provisionally chose a touch screen. In which of their meetings was it dropped, what feature did they keep instead, and what cost per remote was estimated for the touch screen?",
+ "team": "ES2009",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "The touch screen was dropped in ES2009c, where the team chose voice recognition instead (later paired with large rubber buttons in ES2009d). The estimated cost was upwards of \u20ac17.50 per remote to incorporate touch screen technology.",
+   "citations": [
+    {
+     "meeting_id": "ES2009c",
+     "quote": "My estimate is that in order to incorporate touch screen technology it's gonna cost us upwards of seventeen fifty Euro per remote, yeah that's just an estimate though."
+    },
+    {
+     "meeting_id": "ES2009c",
+     "quote": "Okay. Sorted. We will omit the touch screen in favour of voice recognition."
+    },
+    {
+     "meeting_id": "ES2009d",
+     "quote": "we decided not to go for the touch screen which you can see and opted for some very large buttons"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "In ES2009c, the touch screen was dropped in favor of voice recognition; buttons stayed traditional for basic functions. Industrial designer B estimated the touch screen would cost upwards of \u20ac17.50 per remote, making it cost-prohibitive versus the in-house voice tech.",
+   "citations": [
+    {
+     "meeting_id": "ES2009c",
+     "quote": "My estimate is that in order to incorporate touch screen technology it's gonna cost us upwards of seventeen fifty Euro per remote, yeah that's just an estimate though."
+    },
+    {
+     "meeting_id": "ES2009c",
+     "quote": "Okay. Sorted. We will omit the touch screen in favour of voice recognition."
+    },
+    {
+     "meeting_id": "ES2009d",
+     "quote": "we decided not to go for the touch screen which you can see and opted for some very large buttons"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

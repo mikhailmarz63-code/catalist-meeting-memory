@@ -1,0 +1,49 @@
+{
+ "question": "How did Team ES2014 first plan to let people find a lost remote, what did that plan change to, and who suggested how the new version should be presented to buyers?",
+ "team": "ES2014",
+ "steps": [
+  {
+   "action": "search",
+   "query": "clap sound find lost remote speech recognition finder",
+   "meeting_id": "ES2014c"
+  },
+  {
+   "action": "search",
+   "query": "clap whistle find remote lost sound",
+   "meeting_id": "ES2014b"
+  },
+  {
+   "action": "answer",
+   "answer": "ES2014b first proposed a clap-back sound to help locate a lost remote, rejecting a whistle option as less universal. In ES2014c the team instead added a speech-recognition \"finder\" add-on, and Speaker C (UI designer) suggested marketing it simply as a finder function rather than trying to compete with full voice-control remotes already on the market.",
+   "citations": [
+    {
+     "meeting_id": "ES2014b",
+     "quote": "I would have thought that more people could clap rather than whistle, so uh so clap option"
+    },
+    {
+     "meeting_id": "ES2014c",
+     "quote": "it might be a good idea to market it as a um finder function"
+    },
+    {
+     "meeting_id": "ES2014c",
+     "quote": "maybe it's better not to try and compete with that sort of thing and just to market it as a completely different um like different viewpoint as a kind of finding your lost control rather than trying to compete with the functions"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Team ES2014 first planned to use speech recognition so users could call out and locate a lost remote (D's idea in meeting 2); this was dropped in meeting 3 in favor of a simple non-speech 'finder' feature (clap-based sound). Speaker C (UI designer) suggested presenting this to buyers as a 'finder function' rather than a speech feature, to avoid competing with rivals' full voice-recognition remotes.",
+   "citations": [
+    {
+     "meeting_id": "ES2014b",
+     "quote": "we could maybe think about using speech recogniti recognition as a way to find the remote control if it's lost in a room"
+    },
+    {
+     "meeting_id": "ES2014c",
+     "quote": "it might be a good idea to market it as a um finder function"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

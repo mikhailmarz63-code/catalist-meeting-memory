@@ -1,0 +1,45 @@
+{
+ "question": "Team TS3007's energy source changed between meetings. What did they first settle on, what did they end with, and who proposed the change?",
+ "team": "TS3007",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "They first settled on battery plus kinetic (shake-to-charge) power, proposed by C (industrial designer) in meeting c, but in meeting d A (project manager) proposed dropping kinetic for cost/innovation reasons, finalizing a battery-only design.",
+   "citations": [
+    {
+     "meeting_id": "TS3007c",
+     "quote": "battery and w charge it up with kinetic. When you pick it up, it charges up."
+    },
+    {
+     "meeting_id": "TS3007d",
+     "quote": "The kinetic thing, can we just skip it, because uh you have to shake it, but that's not really innovative"
+    },
+    {
+     "meeting_id": "TS3007d",
+     "quote": "the energy, which uh turn out to be uh batteries"
+    }
+   ]
+  },
+  {
+   "action": "read",
+   "meeting_id": "TS3007d",
+   "from": "00:21:30",
+   "to": "00:22:40"
+  },
+  {
+   "action": "answer",
+   "answer": "They first settled on combined battery+kinetic power (meeting 3), with Speaker C proposing shake-to-charge kinetic energy alongside battery. In the final meeting, Speaker A (project manager) proposed dropping kinetic energy for cost/innovation reasons, and the team ended with battery-only power.",
+   "citations": [
+    {
+     "meeting_id": "TS3007c",
+     "quote": "battery and w charge it up with kinetic. When you pick it up, it charges up."
+    },
+    {
+     "meeting_id": "TS3007d",
+     "quote": "The kinetic thing, can we just skip it, because uh you have to shake it, but that's not really innovative."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

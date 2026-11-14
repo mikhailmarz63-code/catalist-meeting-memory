@@ -1,0 +1,39 @@
+{
+ "question": "Early on, a Team ES2008 member asked whether the remote should only have buttons for the television. Who said they would look into it, and what answer was reported back?",
+ "team": "ES2008",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "In ES2008a, C asked whether the remote should have only TV buttons (excluding VCR functions). Speaker A said they would look into it, and the question was answered in ES2008b, where A reported back that the product scope is TV only, not video or other devices.",
+   "citations": [
+    {
+     "meeting_id": "ES2008a",
+     "quote": "It's a good question. Um. I'll look into that."
+    },
+    {
+     "meeting_id": "ES2008b",
+     "quote": "like your question earlier um whether this is going to be t for television, video, or etcetera. Just for television. That's what we're focused on."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "In ES2008a, Speaker C asked whether the remote should have only TV buttons (no VCR functions); Speaker A (project manager) said she'd look into it. The answer came back in ES2008b, where A reported the remote would be for television only, not video or other devices.",
+   "citations": [
+    {
+     "meeting_id": "ES2008a",
+     "quote": "It's a good question. Um. I'll look into that."
+    },
+    {
+     "meeting_id": "ES2008a",
+     "quote": "would we even technically be possible to include video recorder functions on it?"
+    },
+    {
+     "meeting_id": "ES2008b",
+     "quote": "whether this is going to be t for television, video, or etcetera. Just for television. That's what we're focused on."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

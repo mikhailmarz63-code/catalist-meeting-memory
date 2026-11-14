@@ -1,0 +1,45 @@
+{
+ "question": "Team ES2011's project manager said they would check what one of the new project requirements meant. What was the question, and what was the answer when it came up again?",
+ "team": "ES2011",
+ "steps": [
+  {
+   "action": "search",
+   "query": "television only DVD check requirement answer",
+   "meeting_id": "ES2011c"
+  },
+  {
+   "action": "search",
+   "query": "television only DVD meant internet check back",
+   "meeting_id": "ES2011c"
+  },
+  {
+   "action": "answer",
+   "answer": "A (project manager) said she'd check whether 'television only' meant no DVD or just no internet features. At the next meeting she reported back that DVD was excluded too: the remote would not support DVD, only television.",
+   "citations": [
+    {
+     "meeting_id": "ES2011b",
+     "quote": "I'm not sure if they meant o onl use only for television as in not for D_V_D_ or just not internet type things. So I'll I'll check that and update you on the next"
+    },
+    {
+     "meeting_id": "ES2011c",
+     "quote": "We're, um, we're actually not having D_V_D_, that was one of th I I was sorry, I I meant to update you on that."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "A (project manager) said she'd check whether 'television only' excluded DVD or just internet features; at the next meeting she reported back that DVD was excluded too, so the remote would not include DVD support.",
+   "citations": [
+    {
+     "meeting_id": "ES2011b",
+     "quote": "I'm not sure if they meant o onl use only for television as in not for D_V_D_ or just not internet type things. So I'll I'll check that and update you on the next"
+    },
+    {
+     "meeting_id": "ES2011c",
+     "quote": "We're, um, we're actually not having D_V_D_, that was one of th I I was sorry, I I meant to update you on that."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

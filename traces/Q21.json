@@ -1,0 +1,35 @@
+{
+ "question": "In Team IS1007, one member said they would check the prices of components. Who was it, what total did they report for a version with all the functions, and what did the team then decide about the LCD?",
+ "team": "IS1007",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "Speaker C (industrial designer) checked component prices and reported that a version with all functionalities would cost about $15 total to produce. After reviewing this and marketing data showing low consumer interest in LCD, the team decided in the final meeting to drop the LCD (and speech recognition) to keep the remote simple and cheaper.",
+   "citations": [
+    {
+     "meeting_id": "IS1007d",
+     "quote": "It's about so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars."
+    },
+    {
+     "meeting_id": "IS1007d",
+     "quote": "I think it's better to do it without L_C_D_. Because that's with L_C_D_ just will increase the price"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Industrial designer Speaker C checked component prices and reported that with all functionalities included, total cost would be about fifteen dollars. The team then decided to drop the LCD (and speech recognition) from the final design to cut cost and keep the remote simple.",
+   "citations": [
+    {
+     "meeting_id": "IS1007d",
+     "quote": "It's about so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars."
+    },
+    {
+     "meeting_id": "IS1007d",
+     "quote": "I think it's better to do it without L_C_D_. Because that's with L_C_D_ just will increase the price"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

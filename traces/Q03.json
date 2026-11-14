@@ -1,0 +1,39 @@
+{
+ "question": "Team TS3009 planned a titanium back for their remote. Who first proposed replacing the titanium, what did they propose instead, and was the titanium kept in the end?",
+ "team": "TS3009",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "Speaker D (marketing) first proposed dropping titanium in TS3009d, suggesting a hard plastic that looks like titanium instead, to cut costs while keeping the LCD screen. Despite B's objection ('Titanium stays there'), the team finalized titanium-coloured plastic for the back, so actual titanium was not kept.",
+   "citations": [
+    {
+     "meeting_id": "TS3009d",
+     "quote": "change uh titanium to hard a hard kind of plastic looking like titanium than lose the L_C_D_ screen"
+    },
+    {
+     "meeting_id": "TS3009d",
+     "quote": "So titanium-coloured plastic for the back."
+    },
+    {
+     "meeting_id": "TS3009d",
+     "quote": "No no no no. W Titanium stays there."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "In the final meeting (TS3009d), Speaker D (marketing) first proposed replacing the titanium with hard plastic that looks like titanium, to cut costs while keeping the LCD screen. The team agreed, and despite B's push to keep real titanium, C concluded it had to be ditched for cost reasons, so the remote ended up with titanium-coloured plastic, not actual titanium.",
+   "citations": [
+    {
+     "meeting_id": "TS3009d",
+     "quote": "you could better change uh titanium to hard a hard kind of plastic looking like titanium than lose the L_C_D_ screen"
+    },
+    {
+     "meeting_id": "TS3009d",
+     "quote": "So we have to use the ditch the titanium, I'm afraid."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

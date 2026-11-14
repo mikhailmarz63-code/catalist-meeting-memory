@@ -1,0 +1,35 @@
+{
+ "question": "Team TS3004 changed its mind about speech recognition more than once. Was speech recognition in their final design, and in which of their four meetings did they last reverse their position on it?",
+ "team": "TS3004",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "Yes, speech recognition was in the final design. After being dropped twice in meeting b (cost, then usefulness), it was reversed and included in meeting c, and this was confirmed/finalized in meeting d (TS3004d) with an advanced chip kept within budget.",
+   "citations": [
+    {
+     "meeting_id": "TS3004c",
+     "quote": "Okay, we just put it in, because it's a good feature."
+    },
+    {
+     "meeting_id": "TS3004d",
+     "quote": "I already calculated that and it's still in the budget. So it's okay."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Yes, speech recognition made the final design. After being dropped for cost/complexity in TS3004b, it was reversed back in in TS3004c (meeting 3) when the team decided to include it with an advanced chip, and TS3004d (meeting 4) confirmed it as financially feasible and kept it, with no further reversal.",
+   "citations": [
+    {
+     "meeting_id": "TS3004c",
+     "quote": "Okay, we just put it in, because it's a good feature."
+    },
+    {
+     "meeting_id": "TS3004d",
+     "quote": "Okay, but it's still possible uh uh financially. So if you want to, it's okay."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

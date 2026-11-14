@@ -1,0 +1,35 @@
+{
+ "question": "Team ES2003 leaned towards one material for the case and then switched to another. What did they lean towards first, what did they end with, and why did they switch?",
+ "team": "ES2003",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "The team first leaned toward a spongy rubber (stress-ball-like), double-curved case, but in the final meeting switched to a plastic solid case with a rubber grip and single-curved design to cut costs and stay within the 12.5 Euro budget.",
+   "citations": [
+    {
+     "meeting_id": "ES2003c",
+     "quote": "The uh rubber material is the type of stress ball material, not just normal rubber."
+    },
+    {
+     "meeting_id": "ES2003d",
+     "quote": "changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "ES2003 first leaned toward spongy rubber (stress-ball material) for the double-curved case in meeting 3, but switched to a plastic case with a rubber grip in a single-curved design in meeting 4 to cut costs and fit the budget.",
+   "citations": [
+    {
+     "meeting_id": "ES2003c",
+     "quote": "The uh rubber material is the type of stress ball material, not just normal rubber."
+    },
+    {
+     "meeting_id": "ES2003d",
+     "quote": "changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs"
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

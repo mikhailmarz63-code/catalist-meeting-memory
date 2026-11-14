@@ -1,0 +1,43 @@
+{
+ "question": "Team ES2010 discussed several battery options. Who suggested a lithium battery, what did another member prefer instead and why, and what was the final choice?",
+ "team": "ES2010",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "Speaker B (marketing) first suggested a small lithium battery in ES2010a and again in ES2010c, citing its longer life and growing availability; Speaker D (industrial designer) preferred triple A instead, arguing it would be lighter/thinner. The team finalized lithium in ES2010d, with D agreeing: \"Yeah, let's let's do a lithium.\"",
+   "citations": [
+    {
+     "meeting_id": "ES2010a",
+     "quote": "Can you with a small lithium battery?"
+    },
+    {
+     "meeting_id": "ES2010c",
+     "quote": "I think triple A_, it'll be lighter."
+    },
+    {
+     "meeting_id": "ES2010d",
+     "quote": "Yeah, let's let's do a lithium."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "Speaker B (marketing) first proposed a small lithium battery in ES2010a and again in ES2010c, citing its longer life and growing availability; Speaker D (industrial designer) initially preferred triple-A batteries instead, since they'd be lighter. The team finalized lithium in ES2010d, with D agreeing: 'Yeah, let's let's do a lithium.'",
+   "citations": [
+    {
+     "meeting_id": "ES2010a",
+     "quote": "Can you with a small lithium battery?"
+    },
+    {
+     "meeting_id": "ES2010c",
+     "quote": "I think triple A_, it'll be lighter."
+    },
+    {
+     "meeting_id": "ES2010d",
+     "quote": "Yeah, let's let's do a lithium."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

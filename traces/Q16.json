@@ -1,0 +1,36 @@
+{
+ "question": "Team TS3010's project manager favoured a particular kind of control for navigating. What was it, what replaced it in the final costed design, and what else was given up at the same time to reach the budget?",
+ "team": "TS3010",
+ "steps": [
+  {
+   "action": "read",
+   "meeting_id": "TS3010d",
+   "from": "00:17:30",
+   "to": "00:22:00"
+  },
+  {
+   "action": "search",
+   "query": "joystick favourite nice easy to use PM like",
+   "meeting_id": "TS3010d"
+  },
+  {
+   "action": "answer",
+   "answer": "PM A favoured a scroll-wheel/scroll-button for navigating the LCD menu ('the L_C_D_ is easy when you use the scroll buttons... then you push'), which by the final prototype had become a joystick. In the final costed design that joystick was dropped for plain push-buttons (up/down/left/right), and simultaneously the special yellow colour was dropped for a normal colour, bringing cost from 15 to the required 12.50 Euros.",
+   "citations": [
+    {
+     "meeting_id": "TS3010c",
+     "quote": "But the L_C_D_ is easy when you use the scroll uh buttons. Then you can scroll, you see what number, and then you push."
+    },
+    {
+     "meeting_id": "TS3010d",
+     "quote": "If we change the joyst uh the joystick thing into a button up, button down, button right, button left."
+    },
+    {
+     "meeting_id": "TS3010d",
+     "quote": "No joystick. Push-buttons. No special colour. Twelve and a half Euros. Then it's okay."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

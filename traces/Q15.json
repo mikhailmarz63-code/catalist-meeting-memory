@@ -1,0 +1,43 @@
+{
+ "question": "Team ES2016's first full costing of their design came out over budget. What total did they get, what was the limit, and which component did they remove to fix it?",
+ "team": "ES2016",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "In ES2016d the first full costing totaled 15.5 Euro against a 12.5 Euro limit (3 Euro over budget); they removed the LCD display, relying on the TV screen instead, to bring costs within budget.",
+   "citations": [
+    {
+     "meeting_id": "ES2016d",
+     "quote": "So our total is fifteen point five. Which I believe is"
+    },
+    {
+     "meeting_id": "ES2016d",
+     "quote": "Twelve and a half Euros is what supposed to cost us."
+    },
+    {
+     "meeting_id": "ES2016d",
+     "quote": "Yeah you could maybe take out the L_C_D_ dis display even, if it if it comes up on the computer itsel on the T_V_ itself."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "In ES2016d, the team's first full costing totaled 15.5 Euro against a 12.5 Euro budget (3 Euro over). To fix it, they removed the LCD display, relying on the TV to show information instead.",
+   "citations": [
+    {
+     "meeting_id": "ES2016d",
+     "quote": "So our total is fifteen point five. Which I believe is"
+    },
+    {
+     "meeting_id": "ES2016d",
+     "quote": "Twelve and a half Euros is what supposed to cost us."
+    },
+    {
+     "meeting_id": "ES2016d",
+     "quote": "Yeah you could maybe take out the L_C_D_ dis display even, if it if it comes up on the computer itsel on the T_V_ itself."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

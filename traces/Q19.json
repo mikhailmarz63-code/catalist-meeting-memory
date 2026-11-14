@@ -1,0 +1,35 @@
+{
+ "question": "Team IS1003 picked a natural material for the case and later changed it. What was the material, what replaced it, and who suggested the switch?",
+ "team": "IS1003",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "In meeting 3 the team chose wood (with rubber buttons) for the case, proposed by Speaker B. In meeting 4, Speaker B himself suggested switching from wood to plastic to cut production cost, and the team adopted plastic.",
+   "citations": [
+    {
+     "meeting_id": "IS1003c",
+     "quote": "I think we can have wood for example in the bottom and, you know. It depends on the design we want, so."
+    },
+    {
+     "meeting_id": "IS1003d",
+     "quote": "I think you can transform the wood into plastic, maybe. Because uh it seems that this can be yeah, wood into plastic and it it should be fine."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "In meeting 3 the team chose wood for the case (base in wood, rubber buttons) for a natural feel linked to solar marketing. In meeting 4, Speaker B (UI designer) proposed switching it to plastic to cut production cost, and the team adopted it.",
+   "citations": [
+    {
+     "meeting_id": "IS1003c",
+     "quote": "I think we can have wood for example in the bottom and, you know. It depends on the design we want, so."
+    },
+    {
+     "meeting_id": "IS1003d",
+     "quote": "I think you can transform the wood into plastic, maybe. Because uh it seems that this can be yeah, wood into plastic and it it should be fine."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

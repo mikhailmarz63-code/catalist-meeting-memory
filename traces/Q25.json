@@ -1,0 +1,43 @@
+{
+ "question": "Team ES2011 played with fruit and vegetable ideas for the look of their remote. What did they decide about fruit and vegetable shapes in the end, and why?",
+ "team": "ES2011",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "They abandoned 3D fruit/vegetable-shaped covers (like a broccoli joystick) because realistic shapes were too big/uncomfortable to hold and costly to produce; instead they kept one simplified cylindrical joystick shape and used printed fruit patterns/colors (e.g., naming colors 'strawberry', 'banana') to evoke the theme cheaply.",
+   "citations": [
+    {
+     "meeting_id": "ES2011d",
+     "quote": "It's been a little bit difficult to um make sure that it's hand-holdable, and that the user can use it, you know, it's not too big."
+    },
+    {
+     "meeting_id": "ES2011d",
+     "quote": "We could make it that shape but just have different colours, and call 'em the different fruits."
+    },
+    {
+     "meeting_id": "ES2011d",
+     "quote": "I bet having different colours is a lot cheaper than having different shapes too."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "They dropped the idea of molding the remote into actual 3D fruit/vegetable shapes (like a broccoli-shaped joystick) because such shapes were too big or oddly shaped to hold comfortably and were costly to produce; instead they kept a simple cylindrical joystick shape and used printed fruit patterns/colors (and fruit names) on the rubber to convey the theme, since printing colors was cheaper than sculpting different shapes.",
+   "citations": [
+    {
+     "meeting_id": "ES2011d",
+     "quote": "What if um the it was just patterns on like we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber."
+    },
+    {
+     "meeting_id": "ES2011d",
+     "quote": "We could make it that shape but just have different colours, and call 'em the different fruits. We went with shape because we were having fun with the play-dough."
+    },
+    {
+     "meeting_id": "ES2011d",
+     "quote": "I bet having different colours is a lot cheaper than having different shapes too."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

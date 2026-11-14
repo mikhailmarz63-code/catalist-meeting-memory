@@ -1,0 +1,48 @@
+{
+ "question": "What power source did Team ES2002 first agree on, what addition did their project manager like the idea of, and what did the final design use?",
+ "team": "ES2002",
+ "steps": [
+  {
+   "action": "search",
+   "query": "kinetic power like the idea project manager Laura",
+   "meeting_id": "ES2002c"
+  },
+  {
+   "action": "answer",
+   "answer": "The team first agreed on regular (non-rechargeable) batteries, which project manager B (Laura) later said she \"really like[d]\" combined with a kinetic back-up addition. However, the final design in ES2002d dropped kinetic power due to cost and used battery-only.",
+   "citations": [
+    {
+     "meeting_id": "ES2002b",
+     "quote": "unless the controller's gonna consume a lot of batteries, like he's gonna run through like twenty batteries a month, then I don't think rechargeable is something we should"
+    },
+    {
+     "meeting_id": "ES2002c",
+     "quote": "I really like the idea of this kinetic thing where you'd have the back-up of the battery, but have have kinetic power"
+    },
+    {
+     "meeting_id": "ES2002d",
+     "quote": "Do we have kinetic as well? No. Okay, just battery."
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "The team first agreed on standard (non-rechargeable) batteries in ES2002b. In ES2002c, project manager B (Laura) said she really liked adding kinetic power as a backup to the battery, making it a hybrid system. But in the final ES2002d meeting, kinetic was dropped due to cost, so the final 'Ninja Homer' design used battery power only.",
+   "citations": [
+    {
+     "meeting_id": "ES2002b",
+     "quote": "unless the controller's gonna consume a lot of batteries, like he's gonna run through like twenty batteries a month, then I don't think rechargeable is something we should"
+    },
+    {
+     "meeting_id": "ES2002c",
+     "quote": "I really like the idea of this kinetic thing where you'd have the back-up of the battery, but have have kinetic power, I mean what does anybody think about that?"
+    },
+    {
+     "meeting_id": "ES2002d",
+     "quote": "Do we have kinetic as well? No. Okay, just battery."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}

@@ -1,0 +1,43 @@
+{
+ "question": "In Team IS1008, a team member was asked to find out what adding a display would cost. Who was it, and what figure did they come back with?",
+ "team": "IS1008",
+ "steps": [
+  {
+   "action": "answer",
+   "answer": "D (marketing) was tasked in meeting 3 to find the cost of adding a display, and in meeting 4 reported it would add approximately two to three Euro per remote, bringing production cost to about twelve, twelve and a half Euro.",
+   "citations": [
+    {
+     "meeting_id": "IS1008c",
+     "quote": "Do you wanna take an action item to go find out?"
+    },
+    {
+     "meeting_id": "IS1008d",
+     "quote": "so if we add approximately two to three Euro per"
+    },
+    {
+     "meeting_id": "IS1008d",
+     "quote": "remote, now we're up around about twelve, twelve and a half as to what uh the company had initially uh requested"
+    }
+   ]
+  },
+  {
+   "action": "answer",
+   "answer": "D (marketing) was assigned in meeting 3 to find the cost of adding a display; in meeting 4 he reported it would add about 2 to 3 Euro per remote, pushing production cost up to roughly 12 to 12.5 Euro.",
+   "citations": [
+    {
+     "meeting_id": "IS1008c",
+     "quote": "Do you wanna take an action item to go find out?"
+    },
+    {
+     "meeting_id": "IS1008d",
+     "quote": "if we add approximately two to three Euro per"
+    },
+    {
+     "meeting_id": "IS1008d",
+     "quote": "remote, now we're up around about twelve, twelve and a half as to what uh the company had initially uh requested."
+    }
+   ]
+  }
+ ],
+ "quote_errors": []
+}
