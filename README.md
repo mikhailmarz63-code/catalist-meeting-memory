@@ -46,3 +46,16 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 ## Data
 
 AMI Meeting Corpus, University of Edinburgh and partners, CC BY 4.0. See `data/CREDITS.txt`.
+
+## Chat window
+
+A small chat page over the same agent, for asking questions without the terminal.
+
+```
+.venv/bin/python app.py
+```
+
+It opens http://127.0.0.1:8765 in the browser. On a Mac you can also double-click `Start Chat.command`.
+Type loosely ("did team 3012 keep the speech thing?"): code tidies the team id, follow-up questions
+stay on the same team, and each answer shows its quotes, the speaker, the time and the steps the
+agent took. Standard library only, bound to this computer, no login. Files: `app.py`, `ui/`.

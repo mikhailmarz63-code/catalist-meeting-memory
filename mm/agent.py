@@ -119,7 +119,8 @@ def _clip(text, words=1800):
     return text if len(w) <= words else " ".join(w[:words]) + " ...(clipped)"
 
 
-def ask(question: str, team: str | None = None, verbose=False) -> dict:
+def ask(question: str, team: str | None = None, verbose=False, on_step=None) -> dict:
+    """on_step(action_dict) is called after each model step, so a UI can show progress live."""
     conn = store.connect()
     if not team:
         m = TEAM.search(question)
@@ -147,6 +148,8 @@ def ask(question: str, team: str | None = None, verbose=False) -> dict:
             continue
         kind = act.get("action")
         trace["steps"].append(act)
+        if on_step:
+            on_step(act)
         if verbose:
             print(f"  step {step + 1}: {json.dumps(act)[:200]}", flush=True)
         if kind == "timeline" and team:
